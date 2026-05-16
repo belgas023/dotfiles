@@ -1,0 +1,14 @@
+format = ' $directory $git_branch\$(fg:#7b7b7b) '
+
+add_newline = false
+
+[directory]
+style = "fg:#7b7b7b"
+format = "[$path]($style)"
+truncation_length = 5
+truncation_symbol = "../"
+
+[git_branch]
+symbol = ""
+style = "fg:#7b7b7b"
+format = '[[$symbol $branch ](fg:#a88c65)]($style)'

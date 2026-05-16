@@ -1,0 +1,44 @@
+{
+  "plugins": {
+    "alpha-nvim": {
+      "rev": "6c6a89d5b068b5251c8bdf0dd57bb921bcfeeb09",
+      "src": "https://github.com/goolord/alpha-nvim"
+    },
+    "blink.cmp": {
+      "rev": "b4b7cbb52bab6c716b317433fa9348a070cccee5",
+      "src": "https://github.com/saghen/blink.cmp"
+    },
+    "dashboard-nvim": {
+      "rev": "f787e3462c2ee2b6117b17c1aa4ddf66cb6f57fe",
+      "src": "https://github.com/nvimdev/dashboard-nvim"
+    },
+    "lualine.nvim": {
+      "rev": "8811f3f3f4dc09d740c67e9ce399e7a541e2e5b2",
+      "src": "https://github.com/nvim-lualine/lualine.nvim"
+    },
+    "mason.nvim": {
+      "rev": "44d1e90e1f66e077268191e3ee9d2ac97cc18e65",
+      "src": "https://github.com/mason-org/mason.nvim"
+    },
+    "mini.icons": {
+      "rev": "bac6317300e205335df425296570d84322730067",
+      "src": "https://github.com/nvim-mini/mini.icons"
+    },
+    "mini.nvim": {
+      "rev": "be81509b7160aa02264a59789164a2e1c4a6750a",
+      "src": "https://github.com/nvim-mini/mini.nvim"
+    },
+    "mini.pick": {
+      "rev": "fd7e7efadddcec3f3d7f3b363a99aa44e7286c65",
+      "src": "https://github.com/nvim-mini/mini.pick"
+    },
+    "nvim-lspconfig": {
+      "rev": "9ccd58a7949091c0cc2777d4e92a45a209c808c1",
+      "src": "https://github.com/neovim/nvim-lspconfig"
+    },
+    "vague.nvim": {
+      "rev": "8c4643f8a5106dbc492918f86ff6b5c81111ce9a",
+      "src": "https://github.com/vague-theme/vague.nvim"
+    }
+  }
+}
