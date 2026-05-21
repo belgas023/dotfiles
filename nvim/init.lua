@@ -11,6 +11,9 @@ vim.o.shiftwidth = 4
 vim.o.smartindent = true
 vim.o.cmdheight = 1
 vim.o.laststatus = 3
+vim.o.undofile = true
+vim.o.cmdheight = 0
+vim.g.netrw_banner = 0
 
 
 
